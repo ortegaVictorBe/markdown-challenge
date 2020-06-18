@@ -4,7 +4,7 @@
 
 ![Here is Victor][Pic]
 
-[Pic] IMG_20200101_110259_small.jpg
+[Pic]: IMG_20200101_110259_small.jpg
 
 ## "The death is only the begining"
 

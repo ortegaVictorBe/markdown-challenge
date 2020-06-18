@@ -2,7 +2,7 @@
 
 ##"Nothing is coincidence, Everything is causal!"
 
-![Here is Victor](victorOrtega.jpg)
+![Here is Victor](IMG_20200101_110259.jpg)
 
 ## "The death is only the begining"
 
@@ -43,5 +43,7 @@ I once got lost in the north station of brussels for not following advice.
 Listen the instructions
 
 [<< Previous][first] || [Victor] || [Next >>][second]
+
 [first]: https://github.com/degenge/markdown-challenge/blob/master/README.md
+
 [second]: https://github.com/KarolinaDys/markdown-challenge/blob/master/README.md

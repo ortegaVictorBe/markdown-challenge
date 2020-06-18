@@ -1,7 +1,6 @@
 # Victor Ortega
 
 ## "Nothing is coincidence, Everything is causal!"
-
 ![Here is Victor][Pic]
 
 [Pic]: IMG_20200101_110259_small.jpg

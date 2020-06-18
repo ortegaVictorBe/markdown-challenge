@@ -2,7 +2,9 @@
 
 ##"Nothing is coincidence, Everything is causal!"
 
-![Here is Victor](IMG_20200101_110259.jpg)
+![Here is Victor][Pic]
+
+[Pic] IMG_20200101_110259_small.jpg
 
 ## "The death is only the begining"
 

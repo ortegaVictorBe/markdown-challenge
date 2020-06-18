@@ -1,8 +1,8 @@
 #Victor Ortega
+
 ##"Nothing is coincidence, Everything is causal!"
 
-![Here is Victor][pic]
-[pic]: victorOrtega.jpg
+![Here is Victor](victorOrtega.jpg)
 
 ## "The death is only the begining"
 

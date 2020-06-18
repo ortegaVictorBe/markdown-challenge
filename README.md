@@ -1,6 +1,6 @@
-#Victor Ortega
+# Victor Ortega
 
-##"Nothing is coincidence, Everything is causal!"
+## "Nothing is coincidence, Everything is causal!"
 
 ![Here is Victor][Pic]
 
